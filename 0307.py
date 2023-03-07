@@ -1,4 +1,4 @@
-'''# 문자열에서 홀수 번째 문자 추출하기
+# 문자열에서 홀수 번째 문자 추출하기
 string = "abcdefghij"
 result = ""
 for i in range(len(string)):
@@ -263,7 +263,7 @@ print(result)
 
 nums = input("숫자를 입력하세요(구분자: 띄어쓰기): ").split()
 result = "+".join(nums)
-print(result)'''
+print(result)
 
 # 튜플 언패킹
 my_tuple = (1, 2, 3)
